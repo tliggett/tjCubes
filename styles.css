@@ -3,6 +3,7 @@ img {
 }
 body {
     text-align: center;
+<<<<<<< HEAD
     text-shadow: rgb(0,0,0);
     font-size: 25;
     font-style: bold;
@@ -11,3 +12,10 @@ body {
     background-image: url("https://raw.githubusercontent.com/tliggett/tjliggett/master/images/Rainbow.png");
     background-size:100%;
 }
+=======
+    color: rgb(255,255,255);
+    font-family: "Arial";
+    background-image: url("https://raw.githubusercontent.com/tliggett/tjliggett/master/images/Rainbow.png");
+    
+}
+>>>>>>> 7820e3edd4d2ecfd5cf206175d43be4376baa881
