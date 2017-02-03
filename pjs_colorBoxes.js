@@ -10,7 +10,7 @@ function setup() {
   noFill();    
   
   for(var i = 0; i < 8; i++){
-    images[i] = loadImage("https://github.com/tliggett/tjliggett/blob/master/images/color" + i + ".jpg?raw=true");
+    images[i] = loadImage("images/color" + i + ".jpg");
     locs[i] = createVector(random(random(-width/2, width/2),-height/2, height/2),random(-height/2, 0));
     vels[i] = createVector(random(-3,3), random(-3,3), random(-3,3));
     thetas[i] = random(PI);
