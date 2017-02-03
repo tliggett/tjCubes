@@ -31,7 +31,7 @@ function draw() {
   rotateZ(thetas[i]);
   
   texture(images[i]);         
-  box(100,100,100);
+  box(60,120,60);
   
   pop();
   }
