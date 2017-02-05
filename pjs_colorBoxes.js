@@ -20,7 +20,7 @@ function setup() {
 
 
 function draw() {
-  background(255, 251, 160);
+  background(255);
   
   
   for(var i = 0; i<8; i++){
